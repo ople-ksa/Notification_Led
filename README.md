@@ -1,9 +1,12 @@
 # Notification LED
 ## Introduction
-<img align="left" width="100" src="https://github.com/user-attachments/assets/f4047659-ab65-4960-9001-f865e8548641" />
+
+img
+
 Project's main purpose is to bring back those simple and old school notification LEDs. Useful for modern devices without a built-in LED indicator. This is just a fun project i thought of doing, with all the hardware mods and stuff. I tried to make the app with more controls, like blink rate on-off durations, fading in or out or repeating indefinitely if needed. 
 <p>Hope you like this project!</p>
-<br clear="left" />
+
+{/video}
 
 ## Key Features
 
@@ -59,7 +62,7 @@ This project intercepts system-wide notifications and battery events, translatin
 
 | Main Dashboard | App Configuration | Safety Prompts |
 | :---: | :---: | :---: |
-|<img width="270" height="540" src="https://github.com/user-attachments/assets/fe7fa614-b17c-4dd3-a2d0-519a0c7c5b4d" /> | <img width="270" height="540" src="https://github.com/user-attachments/assets/c705c696-149b-476e-8d88-6f9cc57390b2" /> | <img width="270" height="540" src="https://github.com/user-attachments/assets/20a6ea03-e0f4-4bd0-98ff-f457ec524cd7" />|
+|img | img | jmg |
 
 
 ## Important Modules
@@ -100,14 +103,13 @@ Battery Impact: Holding a partial wake lock and pulsing the IR LED is power-inte
 ## Final Product/ Behaviours [Xiaomi M6 PRO 5G]
 ### Non-System Alerts
 
+{/video}
 
-
+{/video}
 
 ### System Alerts
 
+{/video}
 
 ---
 *Note: This app is specialized for devices with a dedicated IR blaster. Performance may vary depending on the hardware's HAL implementation (e.g., Xiaomi/POCO devices are specifically optimized for).*
-#   N o t i f i c a t i o n _ L e d 
- 
- 
