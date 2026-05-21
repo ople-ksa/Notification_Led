@@ -1,11 +1,9 @@
 # Notification LED
 ## Introduction
-<img align="left" width="100" src="https://github.com/user-attachments/assets/f2efe83f-22de-420b-8d7b-e34fb83aa2b8">
+<img align="left" width="100" src="https://github.com/user-attachments/assets/f4047659-ab65-4960-9001-f865e8548641" />
 Project's main purpose is to bring back those simple and old school notification LEDs. Useful for modern devices without a built-in LED indicator. This is just a fun project i thought of doing, with all the hardware mods and stuff. I tried to make the app with more controls, like blink rate on-off durations, fading in or out or repeating indefinitely if needed. 
 <p>Hope you like this project!</p>
 <br clear="left" />
-
-https://github.com/user-attachments/assets/3c8335f8-1775-4f3d-8636-64bdae86aed3
 
 ## Key Features
 
@@ -61,7 +59,7 @@ This project intercepts system-wide notifications and battery events, translatin
 
 | Main Dashboard | App Configuration | Safety Prompts |
 | :---: | :---: | :---: |
-|<img width="270" height="540" alt="Screenshot_2026-05-21-12-01-52-114_com example irled" src="https://github.com/user-attachments/assets/09f74c23-4988-458f-9dee-85609f125127" /> | <img width="270" height="540" alt="Screenshot_2026-05-21-12-02-46-475_com example irled" src="https://github.com/user-attachments/assets/ca609a19-98bb-4de9-b37d-9ba411dc5863" />| <img width="270" height="540" alt="Screenshot_2026-05-21-12-03-01-497_com example irled" src="https://github.com/user-attachments/assets/40813720-b227-48af-97fa-4a0d4a1cf30f" /> |
+|<img width="270" height="540" src="https://github.com/user-attachments/assets/fe7fa614-b17c-4dd3-a2d0-519a0c7c5b4d" /> | <img width="270" height="540" src="https://github.com/user-attachments/assets/c705c696-149b-476e-8d88-6f9cc57390b2" /> | <img width="270" height="540" src="https://github.com/user-attachments/assets/20a6ea03-e0f4-4bd0-98ff-f457ec524cd7" />|
 
 
 ## Important Modules
@@ -102,16 +100,14 @@ Battery Impact: Holding a partial wake lock and pulsing the IR LED is power-inte
 ## Final Product/ Behaviours [Xiaomi M6 PRO 5G]
 ### Non-System Alerts
 
-https://github.com/user-attachments/assets/63a14790-1b45-4718-849e-d14e40148dd9
 
 
-https://github.com/user-attachments/assets/3abdbce0-49c7-4d06-8120-f13a2c5c27c7
 
 ### System Alerts
 
-https://github.com/user-attachments/assets/97e42ea1-3f60-4bee-8585-bd76469432bc
 
 ---
 *Note: This app is specialized for devices with a dedicated IR blaster. Performance may vary depending on the hardware's HAL implementation (e.g., Xiaomi/POCO devices are specifically optimized for).*
-#   N o t i f i c a t i o n _ L e d  
+#   N o t i f i c a t i o n _ L e d 
+ 
  
