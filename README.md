@@ -1,12 +1,14 @@
 # Notification LED
 ## Introduction
 
-img
-
-Project's main purpose is to bring back those simple and old school notification LEDs. Useful for modern devices without a built-in LED indicator. This is just a fun project i thought of doing, with all the hardware mods and stuff. I tried to make the app with more controls, like blink rate on-off durations, fading in or out or repeating indefinitely if needed. 
+<img align="left" width="120" alt="Screenshot 2026-05-21 113507" src="https://github.com/user-attachments/assets/979f4f5c-6b01-4f42-819f-14dce1f8e7cc" />Project's main purpose is to bring back those simple and old school notification LEDs. Useful for modern devices without a built-in LED indicator. This is just a fun project i thought of doing, with all the hardware mods and stuff. I tried to make the app with more controls, like blink rate on-off durations, fading in or out or repeating indefinitely if needed. 
 <p>Hope you like this project!</p>
 
-{/video}
+
+
+https://github.com/user-attachments/assets/0f6e8cc6-d94c-4ca3-bb45-cc4616da5282
+
+
 
 ## Key Features
 
@@ -62,7 +64,7 @@ This project intercepts system-wide notifications and battery events, translatin
 
 | Main Dashboard | App Configuration | Safety Prompts |
 | :---: | :---: | :---: |
-|img | img | jmg |
+|<img width="1080" height="2160" alt="Screenshot_2026-05-21-12-01-52-114_com example irled" src="https://github.com/user-attachments/assets/48f70738-f437-48e9-a2de-a5b9b88f0a8d" />| <img width="1080" height="2160" alt="Screenshot_2026-05-21-12-02-46-475_com example irled" src="https://github.com/user-attachments/assets/506755ea-f7a0-44f6-9715-0b14db31cb24" /> | <img width="1080" height="2160" alt="Screenshot_2026-05-21-12-03-01-497_com example irled" src="https://github.com/user-attachments/assets/4edea68a-b09a-4a0a-a151-be15a4433da0" />|
 
 
 ## Important Modules
@@ -103,13 +105,24 @@ Battery Impact: Holding a partial wake lock and pulsing the IR LED is power-inte
 ## Final Product/ Behaviours [Xiaomi M6 PRO 5G]
 ### Non-System Alerts
 
-{/video}
 
-{/video}
+
+https://github.com/user-attachments/assets/577218ec-404d-45f9-8e47-8acfd5a66451
+
+
+
+
+https://github.com/user-attachments/assets/2d6c3777-dded-490b-a3f0-c996348d2506
+
+
 
 ### System Alerts
 
-{/video}
+
+
+https://github.com/user-attachments/assets/1cbb9630-fb3d-43cb-b68c-730bfa5243d8
+
+
 
 ---
 *Note: This app is specialized for devices with a dedicated IR blaster. Performance may vary depending on the hardware's HAL implementation (e.g., Xiaomi/POCO devices are specifically optimized for).*
